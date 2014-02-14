@@ -1,0 +1,17 @@
+Quiz 4 
+######
+
+:date: 2013-03-25 
+:category: quizzes
+:tags: DC.2.A, DC.2.B
+
+
+If there are 8 people at a party,
+
+   a. How many possible ways are there for all of them to line up (to get drinks, for example)?
+   b. How many possible ways are there to pick four of those people out of the drink line, keeping them in order?
+   c. How many ways are there to pick a group of 4 out of the 8 (like to play cards)?
+   d. How long would it take for everyone at the party to introduce themselves to everyone else at the party, if an introduction takes 15 seconds? 
+  
+ 
+ 

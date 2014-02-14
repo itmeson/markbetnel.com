@@ -1,0 +1,13 @@
+Homework 4 
+##########
+
+:date: 2013-04-03
+:summary: 
+:tags: 
+
+1. From the book: 6.24, 6.26
+
+2. Investigate the series of numbers produced by the expression $6^n -1$, when you let $n = 0, 1, 2, 3, \\ldots$.  What do you notice about the numbers produced in this series?  How would you go about proving that the thing you noticed will continue no matter what value of $n$ you use?
+
+3. Due in class on April 3 (for MW class) or April 4 (for T-Tr class).
+

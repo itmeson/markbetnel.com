@@ -1,0 +1,15 @@
+Quiz 5 
+###### 
+
+:date: 2013-03-27
+:category: quizzes
+:tags: DC.2.D
+
+There is a crazy mailman who does not like to put more than $\\mathbf{x}$ letters in a mailbox.  If there are $\\mathbf{b}$ mailboxes and $\\mathbf{L}$ letters, is it possible for him to put all the letters in the boxes without exceeding $\\mathbf{x}$ letters in any box? 
+  
+1.  $x = 1, b = 10, L = 5$
+2.  $x=1, b = 10, L = 20$
+3.  $x=3, b=20, L = 50$
+4.  $x = ?, b=90, L = 210$  (what is the smallest value of $x$ for which the mailman will be happy?)
+ 
+ 

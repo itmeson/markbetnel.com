@@ -1,0 +1,19 @@
+Quiz 6 
+######
+
+:date: 2013-04-01 
+:category: quizzes
+:tags: DC.1.E, DC.2.B, BI.2
+
+
+1. Is the formula $(x+5)^2 = x^2 + 25$ always true?  If it is, find a way to prove that it is true.  If it is not, provide a counterexample (a value of $x$ which shows that the formula is not always true).
+  
+
+2. Write down all the subsets of the following sets:
+
+   a. $\\{a,b,c\\}$
+   b. $\\{a,b,c,d\\}$
+
+3. Write down something you notice about the lists of subsets in 2.
+ 
+ 

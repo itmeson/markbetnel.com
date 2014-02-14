@@ -1,0 +1,45 @@
+Lesson 3 
+########
+
+:date: 2013-03-14
+:summary: More combinatorics
+:category: lessons
+:tags: 
+
+
+========
+Homework
+========
+
+1. Check in on progress on homework 2.
+
+==========
+Intro Quiz
+==========
+
+Quiz 2_, on finding the consequences of basic argument structures, and on finding a counterexample to a false claim.
+
+==============
+Today's Topics
+==============
+
+1. Review the "magic trick", discuss possible ways to solve it, and test anyone who thinks they know how to do it.
+
+2. When do you use the factorial  ($n\\!$) or the exponent ($n^n $)  ??
+
+3. How many different license plates are possible in Rhode Island and in California?
+
+4. The hand-shake problem:  Four nervous people are at a meeting where they don't know anyone.  To introduce themselves, they each have to shake every other person's hand.  How many hand-shakes will occur?  How about if there are 5 people?  6?  What is the pattern?
+
+
+============
+New Homework
+============
+
+1. See Homework2_, which has been extended to March 21 for T/R classes and March 25 for M/W classes.
+
+
+
+.. _Homework2: ../homework-2.html
+.. _2: ../quiz-2.html
+   

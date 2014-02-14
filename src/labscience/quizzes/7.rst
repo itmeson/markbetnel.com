@@ -1,0 +1,14 @@
+Quiz 7 
+######
+
+:date: 2013-04-04 
+:category: quizzes
+:tags: DC.1.B,  DC.2.A, BI.6
+
+
+1. State DeMorgan's Laws
+  
+2. How many different ways are there to arrange 7 books on a shelf?
+ 
+3. *Explain* what you have to do, physically, to solve the book-stacking problem for 6 books, in which you are trying to move a stack of 6 books from one table to another,following the rules that you cannot put a large book on top of a small book, and there are three tables available to hold them.  Your answer should try to explain the relationship between the solution for 5 books and the solution for 6 books.  How many steps does it take?
+ 

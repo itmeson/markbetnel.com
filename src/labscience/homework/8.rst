@@ -1,0 +1,14 @@
+Homework 8 
+##########
+
+:date: 2013-04-22
+:summary: 
+:tags: 
+
+1. Play the Icosian_ game and the Planarity_ game, taking a screenshot of your highest level and highest score.  Try to get at least to level 7.  The quiz next week will ask you to explain how you can tell whether it is possible to trace a non-repeating path through a graph (Like in Icosian_ ), and we will be talking next time about the relevance of the Planarity_ game.
+
+.. _Icosian: http://neamar.fr/Res/Icosien/
+.. _Planarity: http://planarity.net
+
+
+

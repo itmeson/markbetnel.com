@@ -1,0 +1,19 @@
+Quiz 3 
+######
+
+:date: 2013-03-20 
+:category: quizzes
+:tags: D.1.A, D.1.C, D.1.D, logic
+
+
+$\\mathbf{S}$:  It is snowing.
+$\\mathbf{Q}$:  We are having a quiz.
+
+
+1. Construct truth tables for the following statements and compound statements:  $\\mathbf{S}, \\mathbf{Q}, \\mathbf{S}\\vee\\mathbf{Q}, \\mathbf{S}\\wedge\\mathbf{Q}, \\mathbf{Q} \\to \\mathbf{S} $
+   
+2. Which case(s) is(are) true *today*?
+
+
+ 
+ 

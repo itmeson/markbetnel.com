@@ -1,0 +1,21 @@
+Quiz 2 
+######
+
+:date: 2013-03-18 
+:category: quizzes
+:tags: DC.1.D,DC.1.E
+
+
+1. What conclusions can you draw, given the premises below:
+
+   a.  $ \\mathbf{P \\to Q}$, $\\mathbf{P}$
+
+   b.  $ \\mathbf{P \\to Q}$, $\\mathbf{\\lnot Q}$
+  
+   c.  $ \\mathbf{A \\to B}$, $\\mathbf{B \\to C}$
+
+2. If $x$ is evenly divisible by 2 and $y$ is evenly divisible by 2, then $x$ is evenly divisible by $y$.
+
+   The preceding "if" sentence is false.  Show that it is false by finding a counterexample to it.
+ 
+ 

@@ -1,0 +1,10 @@
+Homework 5 
+##########
+
+:date: 2013-04-08
+:summary: Induction 
+:tags: 
+
+1. Prove that $2^0 + 2^1 + 2^2 + \\ldots 2^n = 2^{n+1} -1$.
+
+

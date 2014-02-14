@@ -1,0 +1,13 @@
+Quiz 10 
+#######
+
+:date: 2013-04-18
+:category: quizzes
+:tags: DC.3.A, DC.3.B, DC.3.C
+
+
+1. Prove, using induction, that $ 1 + 2 + 3 + \\ldots + n = \\frac{n(n+1)}{2}$
+  
+
+ 
+ 

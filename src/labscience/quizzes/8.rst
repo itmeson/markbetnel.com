@@ -1,0 +1,12 @@
+Quiz 8 
+######
+
+:date: 2013-04-11 
+:category: quizzes
+:tags: DC.2.D
+
+
+1. In a tournament with $\\mathbf{n}$ teams, if every team plays each of the other teams exactly once, and every team wins at least once, then at least two of the teams will end up with the same win-loss record.  *Explain* why.
+
+ 
+ 

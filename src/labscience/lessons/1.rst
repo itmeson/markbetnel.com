@@ -1,0 +1,29 @@
+Lesson 1 
+########
+
+:date: 2013-03-07
+:summary: What's it all about
+:category: lessons
+:tags: overview, standards
+
+
+==============
+Today's Topics
+==============
+
+1. What is math, and discrete math in particular, all about?
+
+2. How does the course work?
+
+3. Logic, truth tables, $\\wedge$, $\\vee$, DeMorgan's Laws, and logical implication $A \\to B$
+
+============
+New Homework
+============
+
+1. See Homework1_
+
+
+.. _Homework1: ../homework-1.html
+
+   

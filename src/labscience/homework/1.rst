@@ -1,0 +1,15 @@
+Homework 1 
+##########
+
+:date: 2013-03-13
+:summary: Logic 
+:tags: DC.1
+
+1. Read Chapter 4, do problems from pages 82-87, # 4.1, 4.8, 4.9, 4.20 
+
+2. Instructions: Make sure to show your work -- the point is to demonstrate how
+to go about figuring these out.  You will get full credit for all wrong answers
+if full work is shown, while you will get zero credit for all right answers if
+no work is shown.
+
+3. Submit this assignment on paper at the beginning of class on Day 3.

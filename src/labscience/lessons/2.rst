@@ -1,0 +1,41 @@
+Lesson 2 
+########
+
+:date: 2013-03-12
+:summary: Proofs, intro to combinatorics
+:category: lessons
+:tags: 
+
+
+========
+Homework
+========
+
+1. Check in and go over problems
+
+==========
+Intro Quiz
+==========
+
+Quiz 1 on truth tables and logic
+
+
+==============
+Today's Topics
+==============
+
+1. Proofs (basic syllogism forms)
+2. Combinatorics -- funny ways of counting things
+
+============
+New Homework
+============
+
+1. See Homework2_
+
+
+Homework2_.
+
+.. _Homework2: ../homework-2.html
+
+   
