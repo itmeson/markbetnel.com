@@ -1,12 +1,12 @@
 
-PELICAN=pelican
+PELICAN=/Library/Frameworks/Python.framework/Versions/2.7/bin/pelican
 PELICANOPTS=None
 
 BASEDIR=$(PWD)
 INPUTDIR=$(BASEDIR)/src
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelican.conf.py
-THEME=simple
+THEME=pelican-bootstrap3
 
 
 SSH_HOST=web 
