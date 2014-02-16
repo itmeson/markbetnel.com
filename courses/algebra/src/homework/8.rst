@@ -1,0 +1,14 @@
+Homework 8 
+##########
+
+:date: 2013-01-09
+:summary: Solving pursuit problems
+:tags: pursuit, AC.6, AC.7, AC.8, BI.4
+
+1. A train leaves Chicago moving 110 miles per hour at noon, at the same time that another train leaves New York at 80 miles per hour.  Assuming that both trains continue on the same track at the same speed until they crash into each other, at what time and at what location will the crash occur? Your answer should include a graph showing the location of each train as they move toward each other, two equations that can be used to find the location of each train after any given number of hours of travel, and the answer itself.
+
+2. An elite distance runner maintains a constant speed  of 14 miles per hour, leaving the starting line exactly five minutes before a bicyclist who maintains a constant speed of 20 miles per hour.  At what time and at what location will the bicycle catch up to the runner?  Your answer should include a graph showing the location of each person, two equations that can be used to find the location of each person at any given moment, and the answer itself.
+
+3. The fraction $\\frac{26}{65}$ reduces to $\\frac{2}{5}$, because both 26 and 65 divide evenly by 13, but by coincidence, you also get the same answer of $\\frac{2}{5}$ if you just cancel out the two 6's.  The same fake "trick" works for $\\frac{16}{64} = \\frac{1}{4}$, but does not work for $\\frac{15}{53}$.  Can you find another fraction for which this trick *does* work?  Can you find another fraction for which it doesn't work?  
+
+

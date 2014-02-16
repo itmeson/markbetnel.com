@@ -1,0 +1,46 @@
+Lesson 3
+########
+
+:date: 2012-12-04
+:summary: Making an equation as a simple model
+:category: lessons
+:tags: BI.2, BI.4 
+
+
+========
+Homework
+========
+
+1. Check in and go over problems
+
+==========
+Intro Quiz
+==========
+
+==============
+Today's Topics
+==============
+
+1. The silly taxi-cab problem: How much would it cost to take a taxi to New York City?
+
+2. How much would it cost to take a taxi to a bunch of other cities?
+
+3. How many miles could you go before the taxi fare would have been enough to buy a new car?
+
+4. The "taxi-equation" is $Fare = 2x + 2.50$, where $x$ is the number of miles travelled, and $2.50$ is the initial fare.  This equation is a short-hand for all the calculations you could do to find the fare, since the only thing you have to do to use it is plug the number of miles travelled into the equation, and it will spit out the fare -- this is essentially what the fare box in the taxi does.
+
+5. Of course, this is a silly example because a real taxi driver going a long distance would probably not use this simple equation to compute the fare... what about tolls? What about food? What about hotels for overnight trips? What about the fact that the driver needs to go back home after they drop you off?  
+
+
+============
+New Homework
+============
+
+1. See Homework 4
+
+
+Homework4_.
+
+.. _Homework4: ../homework-4.html
+
+   

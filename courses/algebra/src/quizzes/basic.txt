@@ -1,0 +1,523 @@
+Quiz 1
+######
+
+:date: 2012-11-27
+:category: quizzes
+:tags: algebra, review, real numbers, ac.1, ac.3 
+
+1. Round 84,619 to the nearest hundreds place:
+
+2. Evaluate $20 - 3(6-4)^2 + 5$
+
+3. Calculate: Be sure the final answer is in lowest terms.
+
+$ \\frac{3}{5} + \\frac{1}{2} $
+
+4. Fill in the chart below: Simplify all fractions.
+
+   a. Convert $\\frac{3}{8}$ into a decimal
+   b. Convert $0.04$ into a percent
+   c. Convert $125\\%$ into a fraction
+
+5. Simplify: $ 3 - 2x + 5 - 3(x-6) $
+
+6. Solve:  $6 - 2x = 4x + 12$
+
+7. The sum of three times a number and four is ten. Write the equation. Do not solve.
+
+8. Solve the proportion:
+
+$ \\frac{4}{n} = 610$
+
+9. Multiple choice.  $300$ is $20\\%$ of what?
+
+   a. 200
+   b. 6667
+   c. 1500
+   d. 60
+
+10. What is $\\$60$ increased by $25\\%$?
+
+    a. $\\$75.00$
+    b. $\\$15.00$
+    c. $\\$45.00$
+    d. $\\$84.00$
+Quiz 10 
+#######
+
+:date: 2013-01-14
+:category: quizzes
+:tags: AC.6, AC.7, AC.8
+
+
+1.  A bicyclist goes at a steady 25 miles per hour, leaving 1 hour after a runner, who maintains a steady 14 miles per hour.  Graph the two, find the equations that describe their motion, and solve to determine at what time the bicyclist will catch the runner 
+   
+
+2. Graph this equation: $3x + 4y = 50$
+  
+ 
+ 
+Quiz 11 
+#######
+
+:date: 2013-01-16
+:category: quizzes
+:tags: AC.7, BI.4
+
+
+1. The sum of two numbers is -18.  
+   One number is 2 greater than three times the other. 
+   Turn both sentences into equations, then find the two numbers.  
+  
+ 
+ 
+Quiz 12 
+#######
+
+:date: 2013-01-22
+:category: quizzes
+:tags: BI.4
+
+Write equations representing each of the following (don't solve):
+
+1. Three more than twice a number is 100
+   
+2. A number multiplied by itself is 16 less than 52
+
+3. The product of two numbers is 5 more than their sum
+
+4. Find the next number in the sequence:  1, 4, 7, 10, ...
+ 
+Quiz 16 
+#######
+
+:date: 2013-01-28
+:category: quizzes
+:tags: BI.1, AC.11
+
+
+1. Simplify the following expressions:
+
+   a. $(\\frac{7}{9})^0$
+   b. $y^{-2}y^{-5}$
+   c. $(-xy^2)^{-4}$  
+   d. $(y^3y^4)^4$
+   e. $y^2y^5$
+
+2. Bacteria grow by doubling every 10 minutes. Suppose you are infected by one bacteria, and allow it to grow for 4 hours. Then you begin frantically washing and rewashing your hands with a soap that is only one-third ($\\frac{1}{3}$) effective  (so it kills one-third of the bacteria present each time you use it).  How many times will you have to wash your hands to get the number of bacteria down below 1?  Show your work using exponents to represent the growth and the washing phases. 
+ 
+ 
+Quiz 17 
+#######
+
+:date: 2013-02-05
+:category: quizzes
+:tags: BI.4, AC.7
+
+
+Turn the following into equations:
+
+1. A runner starts running toward Westerly from Providence (60 miles away), going a steady 10 miles per hour.  Make an equation that gives their distance from Providence.
+
+2. A number is 12 more than the product of the number and -5.  What is the number?
+
+3. A runner starts running toward Providence from Westerly (60 miles away), going  a steady 15  miles per hour.  Make an equation that gives their distance from _Providence_.
+
+4.  How many miles from Providence are the two runners when they pass each other?  How much time have they each been running? 
+ 
+Quiz 18 
+#######
+
+:date: 2013-02-06
+:category: quizzes
+:tags: AC.12
+
+Determine what values of x will make y equal to zero:
+
+1. $y = x^2 + 8x + 16$ 
+
+2. $y = x^2 - 4x - 32$
+
+3. $y = x^2 - 7x + 12$
+
+4. $y = 2x^3 -10x^2 - 28x$ 
+ 
+ 
+Quiz 19 
+#######
+
+:date: 2013-02-12
+:category: quizzes
+:tags: AC.12,AC.13,AC.16,AC.17
+
+
+1. The following two equations describe the height of a missile above (or below) the surface of the ocean, when it is launched from a submarine: 
+
+  a. $ y = -t^2 + 12t - 20 $
+
+  b. $ y = -5t^2 + 30t - 20$
+  
+
+2. After how many seconds will each missile break through the surface of the water?
+
+3. After how many seconds will each missile crash back into the water?
+
+4. For how many seconds is each missile above the surface?
+
+5. Hint:  $t = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$
+ 
+ 
+Quiz 3 
+######
+
+:date: 2012-12-04 
+:category: quizzes
+:tags: AC.1, AC.2, AC.3
+
+
+1. Solve the following equations for x:
+
+a. $2x + 5 = 10 $
+b. $-3x - 10 = 20$ 
+c. $3x + 5 = -2x + 15$
+d. $5x - 7 = 11x - 19 $
+
+
+2. Draw pictures that represent the following problems (and solve them):
+
+a. $-5 + 7 = $
+b. $6 - 11 = $
+c. $2\\cdot 9 = $
+d. $5.3 \\cdot 2.7 = $
+e. $\\frac{2}{3} + \\frac{4}{5} = $ 
+ 
+ 
+ 
+Quiz 4 
+######
+
+:date: 2012-12-06 
+:category: quizzes
+:tags: BI.4,AC.9
+
+
+1. Betnel car rental agency charges a \\$50 initiation fee to rent a car, and \\$30 per day for each succeeding day, while JWU rental agency charges a \\$10 fee, but \\$38 per day.  
+
+  a. Which agency is a better choice for a 1 day rental?
+  b. Which is a better choice for 2 days?
+  c. There is one day on which the total charges from both agencies would be the same... what day is that?
+  
+2. Make two equations (one for each company) that would allow you to compute the total rental charge for any possible number of days.
+ 
+ 
+Quiz 6 
+######
+
+:date: 2012-12-13 
+:category: quizzes
+:tags: AC.7, BI.7
+
+
+1. If you have an order for 84 cakes, and one employee who can make 3 per hour, and a second who can make 4 per hour, how many hours will it take to fill the order?
+
+ 
+ 
+Quiz 8 
+######
+
+:date: 2012-12-20 
+:category: quizzes
+:tags:
+
+
+1. If Santa Claus delivers presents to one child per minute, how many hours would it take him to get to every child on earth?  Make reasonable estimates for any numbers you need, write them down clearly, and show all your work -- no calculators, phones, tablets, etc. allowed (but feel free to round).
+ 
+ 
+FINAL 
+#####
+
+:date: 2013-02-20 
+:category: quizzes
+:status: draft
+
+
+1. Write equation(s) for the following, but DO NOT SOLVE:
+
+Alan, Betty and Carl pooled their money to buy a plasma TV. 
+
+If Alan contributed \\$60 more than Betty, Carl contributed twice as much as Betty, and a total of \\$280 was raised, how much did each contribute?”
+
+
+2. Simplify the expression completely:
+
+$ \\frac{-(4x^3 y^3)^2 (y^0)}{2x^2y^8} $
+
+
+3. Solve by factoring:
+
+$ 2x^3 + 6x^2 −56x = 0 $
+
+
+4. Solve each equation for x:
+
+   a. $2x + 5 = 10 $
+   b. $-3x - 10 = 20$ 
+   c. $3x + 5 = -2x + 15$
+   d. $5x - 7 = 11x - 19 $
+
+
+5. Graph the following equations on the same axes:
+
+   a. $3x + 4y = 50$
+   b. $y = 10x - 50$ 
+
+
+6. The sum of two numbers is -18.  
+
+   One number is 2 greater than three times the other. 
+
+   Turn both sentences into equations, then find the two numbers.  
+
+
+7. Simplify the following expressions:
+
+   a. $(\\frac{257}{19})^0$
+   b. $y^{-3}y^{-6}$
+   c. $(-3xy^2)^{-4}$  
+   d. $(y^2y^4)^3$
+
+
+8. 
+   a. A runner starts running toward San Francisco from Providence (3050 miles away), going a steady 8 miles per hour. Make an equation that gives their distance *from Providence* at any given number of hours after they begin.  
+
+   b. Another runner starts running toward Providence from San Francisco, going a steady 10 miles per hour. Make an equation that gives their distance *from Providence* at any given number of hours after they begin.
+
+   c. Graph both equations on the same axes
+
+   d. Solve to determine how many miles *from Providence* they will be when they meet, and how many hours they will have been running.
+
+ 
+9. Determine what values of x will make y equal to zero:
+
+   a. $y = x^2 + 10x + 25$ 
+
+   b. $y = x^2 - 3x - 70$
+
+   c. $y = x^2 - 8x + 15$
+
+   d. $y = 3x^3 -15x^2 - 42x$  
+
+   e. $2y + 1.4x = 5x^2 - 6$
+
+
+
+10.  BONUS
+
+The mythical Hydra was a beast that was very difficult to kill -- if you cut
+off its head, it grew 12 new ones to replace it.  If you cut off one of those
+heads, 12 more would grow... and if you cut off one of those, 12 more would
+grow... and so on.
+
+The mythical Super-Hydra is even worse -- cutting off the one head causes 12
+more to grow, but cutting off one of the new heads causes all of them to die!
+For an instant... and then ALL 12 OF THEM SPROUT 12 NEW HEADS!
+
+a. Write equations describing the number of heads each hydra has for any number of head cuttings -- for example, it would allow you to plug in "5" for the number of cuts, and the equation will tell you how many heads there are.
+
+b. How many heads would you have to cut off before each Hydra gets to 1 BILLION
+heads?
+FINAL 
+#####
+
+:date: 2013-02-20 
+:category: quizzes
+:status: draft
+
+
+1. Write equation(s) for the following, but DO NOT SOLVE:
+
+Alan, Betty and Carl pooled their money to buy a plasma TV. 
+
+If Alan contributed \\$60 more than Betty, Carl contributed twice as much as Betty, and a total of \\$280 was raised, how much did each contribute?”
+
+
+2. Simplify the expression completely:
+
+$ \\frac{-(4x^3 y^3)^2 (y^0)}{2x^2y^8} $
+
+
+3. Solve by factoring:
+
+$ 2x^3 + 6x^2 −56x = 0 $
+
+
+4. Solve each equation for x:
+
+   a. $2x + 5 = 10 $
+   b. $-3x - 10 = 20$ 
+   c. $3x + 5 = -2x + 15$
+   d. $5x - 7 = 11x - 19 $
+
+
+5. Graph the following equations on the same axes:
+
+   a. $3x + 4y = 50$
+   b. $y = 10x - 50$ 
+
+
+6. The sum of two numbers is -18.  
+
+   One number is 2 greater than three times the other. 
+
+   Turn both sentences into equations, then find the two numbers.  
+
+
+7. Simplify the following expressions:
+
+   a. $(\\frac{257}{19})^0$
+   b. $y^{-3}y^{-6}$
+   c. $(-3xy^2)^{-4}$  
+   d. $(y^2y^4)^3$
+
+
+8. 
+   a. A runner starts running toward San Francisco from Providence (3050 miles away), going a steady 8 miles per hour. Make an equation that gives their distance *from Providence* at any given number of hours after they begin.  
+
+   b. Another runner starts running toward Providence from San Francisco, going a steady 10 miles per hour. Make an equation that gives their distance *from Providence* at any given number of hours after they begin.
+
+   c. Graph both equations on the same axes
+
+   d. Solve to determine how many miles *from Providence* they will be when they meet, and how many hours they will have been running.
+
+ 
+9. Determine what values of x will make y equal to zero:
+
+   a. $y = x^2 + 10x + 25$ 
+
+   b. $y = x^2 - 3x - 70$
+
+   c. $y = x^2 - 8x + 15$
+
+   d. $y = 3x^3 -15x^2 - 42x$  
+
+   e. $2y + 1.4x = 5x^2 - 6$
+
+
+
+10.  BONUS
+
+The mythical Hydra was a beast that was very difficult to kill -- if you cut
+off its head, it grew 12 new ones to replace it.  If you cut off one of those
+heads, 12 more would grow... and if you cut off one of those, 12 more would
+grow... and so on.
+
+The mythical Super-Hydra is even worse -- cutting off the one head causes 12
+more to grow, but cutting off one of the new heads causes all of them to die!
+For an instant... and then ALL 12 OF THEM SPROUT 12 NEW HEADS!
+
+a. Write equations describing the number of heads each hydra has for any number of head cuttings -- for example, it would allow you to plug in "5" for the number of cuts, and the equation will tell you how many heads there are.
+
+b. How many heads would you have to cut off before each Hydra gets to 1 BILLION
+heads?
+FINAL 
+#####
+
+:date: 2013-02-20 
+:category: quizzes
+:status: draft
+
+
+1. Write equation(s) for the following, but DO NOT SOLVE:
+
+Alan, Betty and Carl pooled their money to buy a plasma TV. 
+
+If Alan contributed \\$60 more than Betty, Carl contributed twice as much as Betty, and a total of \\$280 was raised, how much did each contribute?”
+
+
+2. Simplify the expression completely:
+
+$ \\frac{-(4x^3 y^3)^2 (y^0)}{2x^2y^8} $
+
+
+3. Solve by factoring:
+
+$ 2x^3 + 6x^2 −56x = 0 $
+
+
+4. Solve each equation for x:
+
+   a. $2x + 5 = 10 $
+   b. $-3x - 10 = 20$ 
+   c. $3x + 5 = -2x + 15$
+   d. $5x - 7 = 11x - 19 $
+
+
+5. Graph the following equations on the same axes:
+
+   a. $3x + 4y = 50$
+   b. $y = 10x - 50$ 
+
+
+6. The sum of two numbers is -18.  
+
+   One number is 2 greater than three times the other. 
+
+   Turn both sentences into equations, then find the two numbers.  
+
+
+7. Simplify the following expressions:
+
+   a. $(\\frac{257}{19})^0$
+   b. $y^{-3}y^{-6}$
+   c. $(-3xy^2)^{-4}$  
+   d. $(y^2y^4)^3$
+
+
+8. 
+   a. A runner starts running toward San Francisco from Providence (3050 miles away), going a steady 8 miles per hour. Make an equation that gives their distance *from Providence* at any given number of hours after they begin.  
+
+   b. Another runner starts running toward Providence from San Francisco, going a steady 10 miles per hour. Make an equation that gives their distance *from Providence* at any given number of hours after they begin.
+
+   c. Graph both equations on the same axes
+
+   d. Solve to determine how many miles *from Providence* they will be when they meet, and how many hours they will have been running.
+
+ 
+9. Determine what values of x will make y equal to zero:
+
+   a. $y = x^2 + 10x + 25$ 
+
+   b. $y = x^2 - 3x - 70$
+
+   c. $y = x^2 - 8x + 15$
+
+   d. $y = 3x^3 -15x^2 - 42x$  
+
+   e. $2y + 1.4x = 5x^2 - 6$
+
+
+
+10.  BONUS
+
+The mythical Hydra was a beast that was very difficult to kill -- if you cut
+off its head, it grew 12 new ones to replace it.  If you cut off one of those
+heads, 12 more would grow... and if you cut off one of those, 12 more would
+grow... and so on.
+
+The mythical Super-Hydra is even worse -- cutting off the one head causes 12
+more to grow, but cutting off one of the new heads causes all of them to die!
+For an instant... and then ALL 12 OF THEM SPROUT 12 NEW HEADS!
+
+a. Write equations describing the number of heads each hydra has for any number of head cuttings -- for example, it would allow you to plug in "5" for the number of cuts, and the equation will tell you how many heads there are.
+
+b. How many heads would you have to cut off before each Hydra gets to 1 BILLION
+heads?
+Quizzes 
+#######
+
+:date: 2012-11-01
+:category: quizzes
+
+This is where you will find copies of quizzes we have already taken. Check back here after a quiz to see what kinds of questions were asked, and to help you prepare for re-assessments of these skills.
+ 
+ 

@@ -1,0 +1,18 @@
+Quiz 17 
+#######
+
+:date: 2013-02-05
+:category: quizzes
+:tags: BI.4, AC.7
+
+
+Turn the following into equations:
+
+1. A runner starts running toward Westerly from Providence (60 miles away), going a steady 10 miles per hour.  Make an equation that gives their distance from Providence.
+
+2. A number is 12 more than the product of the number and -5.  What is the number?
+
+3. A runner starts running toward Providence from Westerly (60 miles away), going  a steady 15  miles per hour.  Make an equation that gives their distance from _Providence_.
+
+4.  How many miles from Providence are the two runners when they pass each other?  How much time have they each been running? 
+ 

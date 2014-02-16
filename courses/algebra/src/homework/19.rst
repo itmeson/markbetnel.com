@@ -1,0 +1,9 @@
+Homework 19 
+###########
+
+:date: 2013-02-11
+:summary: Factoring with quadratic equation
+:tags: AC.12
+
+1. Section 10.2 (page 710): # 1, 11, 13, 15, 17,19,21,39
+

@@ -1,0 +1,9 @@
+Homework 11 
+###########
+
+:date: 2013-01-18
+:summary: Mini-project on graphing and solving systems of equations
+:tags: 
+
+1. From the book: Do Project #1, on page 235 of the book.  You will submit this assignment electronically (as a Word document or PDF) on Friday the 18th, by midnight.  You should do the initial graphs by hand as instructed in the problem -- take clear pictures of these graphs and attach them to the document, along with your written paragraphs and algebraic work.
+

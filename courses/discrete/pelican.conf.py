@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"Mark Betnel"
-SITENAME = u"markbetnel.com"
-SITEURL = 'http://markbetnel.com/dev'
+SITENAME = u"Discrete Mathematics"
+SITEURL = 'http://markbetnel.com/dev/discrete'
 
-TIMEZONE = 'America/Los_Angeles'
+TIMEZONE = 'America/New_York'
 GOOGLE_ANALYTICS = "UA-20141547-1"
 DEFAULT_LANG='en'
 
@@ -21,14 +21,13 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-         ('@markbetnel', 'http://twitter.com/markbetnel'),
-         ('github', 'http://github.com/itmeson') 
+         ('HomeworkFeed', SITEURL + '/feeds/homework.atom.xml'),
+         ('LessonsFeed', SITEURL + '/feeds/lessons.atom.xml'),
+	 ('QuizzesFeed', SITEURL + '/feeds/quizzes.atom.xml')
 	 )
 
 DEFAULT_PAGINATION = 20 
 DISPLAY_PAGES_ON_MENU = False
-
-DISPLAY_BREADCRUMBS = True
 
 TAG_SAVE_AS = 'tag/{slug}.html'
 TAG_URL = 'tag/{slug}.html'    

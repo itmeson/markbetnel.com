@@ -1,0 +1,38 @@
+Lesson 2
+########
+
+:date: 2012-11-29
+:summary: 
+:category: lessons
+:tags: 
+
+
+
+==========
+Quiz
+==========
+
+1. Return and go over quiz 1
+
+==============
+Today's Topics
+==============
+
+1. Representations of multiplication -- repeated addition is a good model of multiplication when you have whole numbers, but it gets more and more problematic as you begin to deal with non-whole numbers and numbers with negative sign.
+
+2. People used to represent numbers as geometric figures made out of dots -- very cool, as long as you don't try to multiply them, or interpret them for negative numbers.
+
+3. The "obvious" properties of numbers (closure, associativity, commutativity) are not actually that obvious.
+
+============
+New Homework
+============
+
+1. See Homework 3
+
+
+Homework3_.
+
+.. _Homework3: ../homework-3.html
+
+   

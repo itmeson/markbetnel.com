@@ -1,0 +1,14 @@
+Homework 2 
+##########
+
+:date: 2012-11-28
+:summary: Introductory assignment
+:tags: real numbers
+
+1. From the book:  Chapter 1 TEST, # 1 - 39, *odd*
+
+2. Notes: Treat this assignment like a self-test -- see how much of it you can do without help, then look up example problems from the chapter if you are stuck.
+
+3. Instructions: All homework assignments are due on the class day given in the assignment -- so Homework 2 is due in class on Day 2, HW 3 will be due on Day 3, etc.  Please complete all assignments on paper (unless instructed otherwise), and turn them in at the BEGINNING of class each day.
+
+

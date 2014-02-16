@@ -1,0 +1,17 @@
+Quiz 4 
+######
+
+:date: 2012-12-06 
+:category: quizzes
+:tags: BI.4,AC.9
+
+
+1. Betnel car rental agency charges a \\$50 initiation fee to rent a car, and \\$30 per day for each succeeding day, while JWU rental agency charges a \\$10 fee, but \\$38 per day.  
+
+  a. Which agency is a better choice for a 1 day rental?
+  b. Which is a better choice for 2 days?
+  c. There is one day on which the total charges from both agencies would be the same... what day is that?
+  
+2. Make two equations (one for each company) that would allow you to compute the total rental charge for any possible number of days.
+ 
+ 
