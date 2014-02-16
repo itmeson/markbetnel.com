@@ -9,6 +9,8 @@ TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"
 DEFAULT_LANG='en'
 
+DOCUTIL_CSS = True
+
 # Blogroll
 LINKS =  (
     ('SAGE', 'http://sagemath.org/'),
@@ -32,3 +34,5 @@ DISPLAY_BREADCRUMBS = True
 
 TAG_SAVE_AS = 'tag/{slug}.html'
 TAG_URL = 'tag/{slug}.html'    
+
+
