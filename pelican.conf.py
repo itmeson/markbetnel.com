@@ -10,15 +10,15 @@ GOOGLE_ANALYTICS = "UA-20141547-1"
 DEFAULT_LANG='en'
 
 DOCUTIL_CSS = True
+DISPLAY_PAGES_ON_MENU = True
 
 # Blogroll
 LINKS =  (
     ('SAGE', 'http://sagemath.org/'),
-    ('Wolfram Alpha', 'http://www.wolframalpha.com/'),
-    ('Khan Academy', 'http://www.khanacademy.org'),
-    ('Math Fun Facts', 'http://www.math.hmc.edu/funfacts/'),
+    ('Software Carpentry', 'http://softwarecarpentry.org'),
     ('R - Statistics', 'http://cran.r-project.org'),
-    ('DESMOS', 'http://www.desmos.com')	
+    ('DESMOS', 'http://www.desmos.com'),
+    ('Seattle Academy', 'http://seattleacademy.org')	
         )
 
 # Social widget
@@ -28,7 +28,6 @@ SOCIAL = (
 	 )
 
 DEFAULT_PAGINATION = 20 
-DISPLAY_PAGES_ON_MENU = False
 
 DISPLAY_BREADCRUMBS = True
 
