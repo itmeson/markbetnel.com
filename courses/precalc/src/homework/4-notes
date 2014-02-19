@@ -1,0 +1,59 @@
+Homework 4 
+##########
+
+:date: 2012-12-10
+:summary: Composition of functions
+:tags: C.1, C.2 
+
+
+1. From the book, Section 2.8: #35, 37, 49, 51, 55, 59, 61, 71, 89
+2. Notes: Don't let yourself get stuck! Come to office hours, or send me a note if you have any problems.
+
+3. Instructions: Submit this assignment on paper at the beginning of class on day 4.
+
+35. f(x) = 2x + 3, g(x) = x - 2
+
+a. $f+g = 3x + 1, D: (-\infty, \infty), R: (-\infty, \infty)$
+b. $f-g = x + 5, D: (-\infty, \infty), R: (-\infty, \infty)$
+c. $f\cdotg = 2x^2 -x - 6, D: (-\infty,\infty), R: (-6.25, \infty)$
+d. $f/g = \\frac{2x+3}{x-2}, D: x \neq 2, R: y \neq 2$
+e. $f \circ g = 2(x-2) + 3 = 2x - 1, D: \mathbb{R}, R: \mathbb{R}$
+
+37. $f(x) = x^2 + 7, g(x) = 3x - 2$
+
+a. $f+g = x^2 + 3x + 5, D: (-\infty, \infty), R: (2.75, \infty)$
+b. $f-g = x^2 - 3x + 9$
+c. $f\cdotg = 3x^3 - 2x^2 + 21x - 14$
+d. $f/g = \\frac{x^2 + 7}{3x-2}, D: x \neq 2/3, R: (-\infty, \infty)$
+
+49. $f(x) = \sqrt{x+3}, g(x) = 2x-5 $
+
+a. $f \circ g = \sqrt{2x-2}, D: x \geq 1$
+b. $g \circ f = 2\sqrt{x+3} - 5, D: x \geq -3$
+
+
+1. From the book, Section 2.8: #35, 37, 49, 51, 55, 59, 61, 71, 89
+
+51.  
+
+55. 
+
+59. $f = \\frac{2x}{x+3}, g = \\frac{5}{x}$.  Domain of f is all but x = -3, 
+so g has to be restricted to not contain g = -3, which happens when $x = -5/3$.  So the domain of the composition is $x\neq -5/3, x\neq 0$.  The composition $\f\circ g = \\frac{10/x}{5/x + 3}=\\frac{10}{5+3x}$ which has domain $x\neq -5/3$.
+
+61. same
+
+71. a. $R(2) = 1$
+    b. $C(8) = 5$
+    c. 3 and 7
+    d. $C(t) > R(t) for 0 \leq t < 3; 7 < t < 10
+    e. $R(t) > C(t) for 3 < t < 7$
+    f.
+
+89. $r(t) = 3t$
+
+    a. $r(2) = 6$
+    b. $A = \pi r^2 = \pi r^2(t) = 9\pi t^2$
+    c. 
+
+
