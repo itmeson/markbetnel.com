@@ -60,7 +60,7 @@ At Johnson & Wales
 .. _sciciv: http://markbetnel.com/dev/sciciv
 .. _scicivOL: http://markbetnel.com/dev/scicivOL
 .. _discrete: http://markbetnel.com/dev/discrete
-.. _cp2: http://markbetnel.com/dev/calc-phys-2
+.. _cp2: http://markbetnel.com/dev/cp2
 .. _gp1: http://markbetnel.com/dev/genphys
 .. _pc: http://markbetnel.com/dev/precalc
 .. _alg: http://markbetnel.com/dev/algebra
