@@ -55,13 +55,13 @@ At Johnson & Wales
 - Physics II  
 
 
-.. _qaF2012: http://markbetnel.com/dev/qaF2012
-.. _qaS2013: http://markbetnel.com/dev/qa1
-.. _sciciv: http://markbetnel.com/dev/sciciv
-.. _scicivOL: http://markbetnel.com/dev/scicivOL
-.. _discrete: http://markbetnel.com/dev/discrete
-.. _cp2: http://markbetnel.com/dev/cp2
-.. _gp1: http://markbetnel.com/dev/genphys
-.. _pc: http://markbetnel.com/dev/precalc
-.. _alg: http://markbetnel.com/dev/algebra
+.. _qaF2012: http://markbetnel.com/courses/qaF2012
+.. _qaS2013: http://markbetnel.com/courses/qa1
+.. _sciciv: http://markbetnel.com/courses/sciciv
+.. _scicivOL: http://markbetnel.com/courses/scicivOL
+.. _discrete: http://markbetnel.com/courses/discrete
+.. _cp2: http://markbetnel.com/courses/cp2
+.. _gp1: http://markbetnel.com/courses/genphys
+.. _pc: http://markbetnel.com/courses/precalc
+.. _alg: http://markbetnel.com/courses/algebra
 

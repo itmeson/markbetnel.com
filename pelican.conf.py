@@ -3,7 +3,7 @@
 
 AUTHOR = u"Mark Betnel"
 SITENAME = u"markbetnel.com"
-SITEURL = 'http://markbetnel.com/dev'
+SITEURL = 'http://markbetnel.com/'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"

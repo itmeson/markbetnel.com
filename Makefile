@@ -1,5 +1,5 @@
 
-PELICAN=/Library/Frameworks/Python.framework/Versions/2.7/bin/pelican
+PELICAN=/usr/bin/env pelican
 PELICANOPTS=None
 
 BASEDIR=$(PWD)
@@ -10,7 +10,7 @@ THEME=pelican-bootstrap3
 
 
 SSH_HOST=web 
-SSH_TARGET_DIR=markbetnel.com/dev
+SSH_TARGET_DIR=markbetnel.com/
 
 
 help:
