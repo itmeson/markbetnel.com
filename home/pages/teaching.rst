@@ -13,7 +13,7 @@ At Seattle Academy
 
 **2013-2014**
 
-- How to Think Like a Scientist  (9th grade Labscience)
+- How to Think Like a Scientist  (9th grade Labscience_)
 
 
 At Johnson & Wales
@@ -64,4 +64,4 @@ At Johnson & Wales
 .. _gp1: http://markbetnel.com/courses/genphys
 .. _pc: http://markbetnel.com/courses/precalc
 .. _alg: http://markbetnel.com/courses/algebra
-
+.. _Labscience: http://markbetnel.com/courses/labscience
