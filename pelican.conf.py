@@ -35,5 +35,3 @@ DISPLAY_BREADCRUMBS = True
 
 TAG_SAVE_AS = 'tag/{slug}.html'
 TAG_URL = 'tag/{slug}.html'    
-
-
