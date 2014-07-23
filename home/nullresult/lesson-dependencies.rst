@@ -22,16 +22,16 @@ to merge it.  Does their lesson on similar triangles come before the one on
 measuring angles?  Or before it?  Have they broken the dependencies that I
 envisioned by making use of a concept that isn't yet defined in the course?
 
-For myself, I'd love to be able to work on a curriculum project with others, using
-all the tools of the open source community, but I think teachers working together 
-like that first need to solve the problem of collaboration-with-self.  I tend
-to recreate my own content over and over again, because it is far easier to rethink
-and rewrite than it is to sift through all the stuff I have created before, edit it
-for new use, and then run with it again.
+For myself, I'd love to be able to work on a curriculum project with others,
+using all the tools of the open source community, but I think teachers working
+together like that first need to solve the problem of collaboration-with-self.
+I tend to recreate my own content over and over again, because it is far easier
+to rethink and rewrite than it is to sift through all the stuff I have created
+before, edit it for new use, and then run with it again.
 
-I'm making first steps in this direction by hosting all my course materials on github,
-and using branches to manage multiple versions of a course.  But let's say I have a great
-lesson that I like on ...
+I'm making first steps in this direction by hosting all my course materials on
+github, and using branches to manage multiple versions of a course.  But let's
+say I have a great lesson that I like on ...
 
 
 http://software-carpentry.org/blog/2014/03/collaborative-lesson-development.html#comment-1313416352

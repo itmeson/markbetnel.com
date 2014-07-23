@@ -9,4 +9,5 @@ Labscience
 How to Think Like a Scientist  (9th grade Labscience_)
 
 
-.. _Labscience: http://markbetnel.com/courses/labscience
+.. _Labscience: http://markbetnel.com/courses/labscience-f2014
+
