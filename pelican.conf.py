@@ -29,6 +29,10 @@ SOCIAL = (
          ('github', 'http://github.com/itmeson') 
 	 )
 
+PLUGIN_PATHS = ["../pelican-plugins/"]
+PLUGINS = ["tipue_search", "latex"]
+
+
 DEFAULT_PAGINATION = 20 
 
 DISPLAY_BREADCRUMBS = True

@@ -12,8 +12,8 @@ At Seattle Academy
 
 **2014-2015**
 
-- Algebra2_
-- How to think Like a Scientist (9th grade Labscience2014_)
+- Algebra2:  `Fall </courses/algebra2-f2014/>`__, `Winter </courses/algebra2/w2014/>`__, Spring
+- How to think Like a Scientist (9th grade Labscience): `Fall </courses/labscience-f2014/>`__, `Winter </courses/labscience/w2014>`__, Spring
 
 **2013-2014**
 
@@ -69,5 +69,5 @@ At Johnson & Wales
 .. _pc: http://markbetnel.com/courses/precalc
 .. _alg: http://markbetnel.com/courses/algebra
 .. _Labscience: http://markbetnel.com/courses/labscience
-.. _Labscience2014: http://markbetnel.com/courses/labscience-f2014
-.. _Algebra2: http://markbetnel.com/courses/algebra2-f2014
+.. _Labscience2014: http://markbetnel.com/courses/labscience
+.. _Algebra2: http://markbetnel.com/courses/algebra2
