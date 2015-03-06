@@ -12,8 +12,8 @@ At Seattle Academy
 
 **2014-2015**
 
-- Algebra2:  `Fall </courses/algebra2-f2014/>`__, `Winter </courses/algebra2/w2014/>`__, Spring
-- How to think Like a Scientist (9th grade Labscience): `Fall </courses/labscience-f2014/>`__, `Winter </courses/labscience/w2014>`__, Spring
+- Algebra2:  `Fall </courses/algebra2/f2014/>`__, `Winter </courses/algebra2/w2014/>`__, `Spring </courses/algebra2/s2015/>`__
+- How to think Like a Scientist (9th grade Labscience): `Fall </courses/labscience-f2014/>`__, `Winter </courses/labscience/w2014>`__, `Spring </courses/labscience/s2015/>`__
 
 **2013-2014**
 
@@ -42,6 +42,10 @@ At Johnson & Wales
 - Quantitative Analysis qaF2012_  
 
 
+**Summer 2012**
+
+- Organic Chemistry
+
 **Spring 2012**
 
 - Discrete Math  
@@ -57,6 +61,16 @@ At Johnson & Wales
 
 - Survey of College Math  
 - Physics II  
+
+**Previously:**
+
+At Wentworth Institute of Tecnology: Intro to Physics, Intro to Chemistry
+
+At Boston University: Freshman Writing Seminar: "Writing in the Natural Sciences", Modern Physics, Electricity & Magnetism, Calculus-based Physics I and II (for engineering majors)
+
+
+
+
 
 
 .. _qaF2012: http://markbetnel.com/courses/qaF2012

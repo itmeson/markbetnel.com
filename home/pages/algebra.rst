@@ -10,6 +10,6 @@ Seattle Academy Algebra II
 
  - `Fall 2014 <http://markbetnel.com/courses/algebra2/f2014>`_
  - `Winter 2014-2015 <http://markbetnel.com/courses/algebra2/w2014>`_ 
- - Spring 2015 
+ - `Spring 2015 <http://markbetnel.com/courses/algebra2/s2015>`_ 
 
 
