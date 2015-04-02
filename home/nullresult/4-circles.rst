@@ -1,0 +1,49 @@
+Four Circles
+############
+
+:date: 2015-04-01
+:tags: circle, geometry, trigonometry, algebra, problems, construction, safety, letting go 
+:category: nullresult
+
+
+I showed the hole in the floor solution to the colleague who had told me about the problem yesterday-- he was really pleased with the answer.  The key insight for him was the solution to the simple harmonic oscillator differential equation, which, as a math person, he wasn't familiar with.  Another colleague saw the problem and had to get in on the act, so he proposed this problem, which I worked on for much of the day.  
+
+**Construct a circle that is mutually tangent to three other circles, each of which is tangent to each of the others.  The circles have radii of 3, 2, and 1.  What is the radius of the fourth circle?  And how do you locate its center?**
+
+
+
+
+.. raw:: html
+
+   <iframe scrolling="yes" src="https://tube.geogebra.org/material/iframe/id/952253/width/1920/height/916/border/888888/rc/true/ai/false/sdz/true/smb/true/stb/true/stbh/true/ld/true/sri/true/at/auto" width="100%" height="200px" style="border:1px;"> </iframe>
+..
+
+`Open in a separate tab. <http://web.geogebra.org/app/?id=952253>`_
+
+
+It was an interesting experience working on the problem with other teachers in the room.  **It was intimidating.**
+
+The problem poser and a third teacher who had seen the problem before but didn't remember the solution were looking over my shoulder while I was sketching and thinking.
+
+**So intimidating**
+
+I found myself falling prey to all the mental traps I see my students fall into.
+
+"It's taking too long.  I must have missed something."
+
+"Are they going to respect me if I can't figure it out?"
+
+"This approach looks promising, but it doesn't seem elegant enough to justify the problem-poser's satisfaction."
+
+"Maybe I should make a new drawing.  This one isn't very neat."
+
+and the third teacher, who half-remembered having done the problem before, admitted that he was falling prey to the trap of trying to remember the solution, rather than thinking afresh about it (one of the more common traps my students fall into).
+
+So I'm taking away from this a reminder of how important it is to make the space safe for a student to experiment, and how easy it is to screw it up by asking the wrong question at the wrong time in the wrong way.  Or even just by hovering a little too soon.
+
+I'm reminded of Feynman's anecdote about the high school students he had working for him at Los Alamos near the end of the Manhattan Project.  They had come up with a clever way to speed up their calculations, but they were still working out the bugs when he walked in the room, and, embarrased and worried that he would screw them up, they shouted at him to get out.
+
+I think Feynman is a problematic figure in science, but we could all think about following this one example at least, if we really want our students to feel safe:  without a word, he closed the door and walked away.
+
+
+

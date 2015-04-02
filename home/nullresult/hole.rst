@@ -6,8 +6,6 @@ Hole in the floor
 :summary: an interesting problem that I got wrong at first
 :category: nullresult
 
-(post in progress)
-
 
 An interesting question that I got wrong.  At first.
 
