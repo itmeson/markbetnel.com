@@ -3,7 +3,7 @@
 
 AUTHOR = u"Mark Betnel"
 SITENAME = u"markbetnel.com"
-SITEURL = 'http://markbetnel.com/'
+SITEURL = 'http://markbetnel.com'
 
 TIMEZONE = 'America/Los_Angeles'
 GOOGLE_ANALYTICS = "UA-20141547-1"
@@ -25,7 +25,7 @@ LINKS =  (
 
 # Social widget
 SOCIAL = (
-         ('@markbetnel', 'http://twitter.com/markbetnel'),
+         ('Twitter', 'http://twitter.com/markbetnel'),
          ('github', 'http://github.com/itmeson') 
 	 )
 
