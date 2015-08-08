@@ -15,7 +15,7 @@ def export(nbname, outfilename=None):
         outfilename = nbname.replace("ipynb","rst")
 
     with open(outfilename,'w') as f:
-        f.write(body[1:])      # offset because it puts in a blank line at top?
+        f.write(body[1:].lstrip())      # offset because it puts in a blank line at top?
 
     return body,resources
 

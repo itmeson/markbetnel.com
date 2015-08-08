@@ -42,7 +42,7 @@ clean:
 
 
 ssh_upload: $(OUTPUTDIR)/index.html
-	scp -r $(OUTPUTDIR)/* web:$(SSH_TARGET_DIR)
+	rsync -avz $(OUTPUTDIR)/* web:$(SSH_TARGET_DIR)
 
 
 .PHONY: html help clean ftp_upload ssh_upload dropbox_upload github

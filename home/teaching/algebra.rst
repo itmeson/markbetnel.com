@@ -1,10 +1,10 @@
-Algebra II
-##########
+Algebra
+#######
 
 :date: 2014-02-14 
 :summary: Dummy page to get to algebra course site 
 :tags: teaching, algebra
-
+:category: teaching
 
 Seattle Academy Algebra II 
 

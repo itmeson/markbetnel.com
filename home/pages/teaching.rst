@@ -10,6 +10,14 @@ Teaching
 
 At Seattle Academy 
 
+**2015-2016**
+
+- Physics: `Fall </courses/physics/fall2015/>`__
+- LabSci: `Fall </courses/labscience/f2015/>`__
+
+
+
+
 **2014-2015**
 
 - Algebra2:  `Fall </courses/algebra2/f2014/>`__, `Winter </courses/algebra2/w2014/>`__, `Spring </courses/algebra2/s2015/>`__
