@@ -17,16 +17,16 @@ DISPLAY_PAGES_ON_MENU = True
 # Blogroll
 LINKS =  (
     ('SAGE', 'http://sagemath.org/'),
-    ('Software Carpentry', 'http://softwarecarpentry.org'),
-    ('R - Statistics', 'http://cran.r-project.org'),
-    ('DESMOS', 'http://www.desmos.com'),
-    ('Seattle Academy', 'http://seattleacademy.org')	
+    ('Software Carpentry', 'https://software-carpentry.org'),
+    ('R - Statistics', 'https://cran.r-project.org'),
+    ('DESMOS', 'https://www.desmos.com'),
+    ('Seattle Academy', 'http://www.seattleacademy.info/wp/')	
         )
 
 # Social widget
 SOCIAL = (
-         ('Twitter', 'http://twitter.com/markbetnel'),
-         ('github', 'http://github.com/itmeson') 
+         ('Twitter', 'https://twitter.com/markbetnel'),
+         ('github', 'https://github.com/itmeson') 
 	 )
 
 PLUGIN_PATHS = ["../pelican-plugins/"]
