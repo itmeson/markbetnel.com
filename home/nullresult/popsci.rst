@@ -2,9 +2,9 @@ Popular Technical Writing
 #########################
 
 :date: 2015-07-15
-:tags: popular science, criticism, genre building
+:tags: popular science, criticism, genre building, active reading
 :category: nullresult
-:status: draft
+
 
 I love popular science  and math as a genre.  I read a lot of it, and I hope to write it.  But I find that a lot of it grates my nerves, enough that I end up not finishing a lot of the pieces I start reading.  Others have criticized over-reliance on story-telling/journalistic tropes, such as "the solitary, misunderstood genius" or "the race against a bitter rival".  These allow us to simplify the complex story, fitting it onto a familiar framework that makes it easier to understand, at the cost of sacrificing some of the (sometimes) important details.  I think metaphors are awesome, and I think humans are wired to look for those story structures.  So carefully done, I like the story-telling aspect (but it is a problem in journalism).
 
@@ -27,5 +27,13 @@ What's the point of popular science?  I'm sure that other writers are accomplish
 
   How do you write popular science that forces/invites the reader to engage and struggle? 
 
-  Is there an audience out there that would choose popular science like that? 
+  Is there an audience out there that would choose popular science like that?
+
+English and history teachers may be amused that I want to re-invent active reading.  But here's the idea:
+
+Force the reader to read actively by tying them to the `Great Chain of Frustration <the-great-chain-of-frustration.html>`_.  The book has active content that requires the reader to make a prediction before you can continue reading, and make those predictions test their intuition -- make them wrong often enough that they know careful attention and thought is required.
+
+And then force them to create an explanation of what they have learned.  That explanation might be in the form of text, a drawing, linked video or audio, annotations on the page, but it has to be linked to the location the book that led to the discrepancy and the learning so they can see it again when they page through the book.  Maybe their annotations get added to the index automatically.
+
+Some questions are there about how to do this.  And whether the annotation layer should be shared publicly (or some of it public to encourage conversation with others) or held completelely private, but it definitely has to be re-visitable by the reader who created it.  And it has to be persistent  enough and easy enough to maintain that the reader will be able to keep all of that in the same way they can currently keep their highlighting and marginalia on physical books.
 

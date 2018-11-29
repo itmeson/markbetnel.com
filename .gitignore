@@ -1,4 +1,6 @@
 output
 *.pyc
-courses
+courses/
 sngn
+cache/
+*checkpoints

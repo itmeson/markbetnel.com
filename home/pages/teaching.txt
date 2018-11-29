@@ -12,8 +12,8 @@ At Seattle Academy
 
 **2015-2016**
 
-- Physics: `Fall </courses/physics/fall2015/>`__
-- LabSci: `Fall </courses/labscience/f2015/>`__
+- Physics: `Fall </courses/physics/fall2015/>`__, `Winter </courses/physics/w2015-16/>`__, `Spring </courses/physics/current/>`__
+- LabSci (Scientific Investigation): `Fall </courses/labscience/f2015/>`__, `Spring </courses/si/current/>`__
 
 
 

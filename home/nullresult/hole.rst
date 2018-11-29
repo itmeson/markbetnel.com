@@ -90,7 +90,6 @@ So what about the original problem, where you can drill from any point to any po
 
 Start with the same expression for the force on the object in the hole.  It is still correct to describe the magnitude of the *total* force on the object, even if it is constrained to move in a line that doesn't pass through the center.  But just like for sliding on a ramp, we need to know the component of that total force that points along the ramp:
 
-((TODO: a picture would be good here))
 
 .. math::
 
