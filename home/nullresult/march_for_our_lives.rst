@@ -4,7 +4,7 @@ March for our Lives
 :date: 2018-03-24
 :tags: guns, politics, enough
 :category: nullresult
-
+:status: drafts
 
 I'm not marching today, because my foot is injured and I can't do the whole route.  Also my daughter (K2.5) didn't feel like going at the last moment, so we're hanging out this morning, while my wife and son (K1.8) go to the march.  I'm proud of my kids and my family being super engaged, in a lot of things, from supporting de-escalation training for the police to gun reform to support for public education.
 

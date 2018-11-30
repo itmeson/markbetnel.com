@@ -30,7 +30,7 @@ SOCIAL = (
 	 )
 
 PLUGIN_PATHS = ["../pelican-plugins/"]
-PLUGINS = ["tipue_search", "latex", 'sitemap', 'pelican_youtube']
+PLUGINS = ["tipue_search", "latex", 'sitemap']#, 'pelican_youtube']
 
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives', 'search', '404'))
 
