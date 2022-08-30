@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/nullresult/index.html",
+    "items": [
+      "/nullresult/posts/post-with-code/index.html",
+      "/nullresult/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/posts/post-with-code/index.html",
+      "/blog/posts/welcome/index.html",
+      "/blog/posts/labelling/index.html",
+      "/blog/posts/skiing_magee/skiing_magee.html"
+    ]
+  }
+]

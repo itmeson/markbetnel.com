@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "blog",
+    "section": "",
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 29, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 26, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nct\n\n\nlabelling\n\n\nstudents\n\n\neducation\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2022\n\n\nMark Betnel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nct\n\n\nsngn\n\n\nphysics\n\n\nmodelling\n\n\n\n\n\n\n\n\n\n\n\nOct 13, 2021\n\n\nMark Betnel\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/labelling/index.html",
+    "href": "posts/labelling/index.html",
+    "title": "Labelling Demo",
+    "section": "",
+    "text": "This class, being an elective, means at my school that I can’t assign (much) homework. It having no pre-requisites means I can count on no background knowledge about computing. This is by design, as I want everyone in the school to take the class. I’m getting about 80 kids per year in it, so maybe 50% of the school will have taken it at some point – I feel good about that. But that still means it’s challenging to teach.\nWhat I want is for them to come away with an informed curiousity about the technology and its implications, so they can ask good questions about it and make good decisions about it in their own lives and for society. That’s a good goal, but it’s kind of nebulous for defining the performances I want them to be capable of during the class. What ends up happening is a bunch of reading, playing with little toy examples, and discussions that are a little one-sided – I have a lot to learn about how to teach a class like this.\nSo one of the concret-ish things I want from them is to understand the workflow of supervised learning and deployment: data gathering, curation, and labelling; model training; model testing; deployment; maintenance; end-user usage; iteration. With each of those steps I want them to know a little technical detail and to think about some of the fraught questions that can arise (and that they should ask!)\nFor example: Why do we need an ML tool for this task? Is it plausible that there is signal in the available data to power the ML tool? If the desired tool really works exactly as designed, does it pass the “Is it creepy?” test? What are the broader implications of success or failure with the project? Where does the data come from? How does it get labelled? How is privacy of data subjects protected? Is informed consent obtained? What are the training costs and issues? What does it mean to overfit vs underfit? How does one test the results? What are the error rates? Is there more than one kind of error? Do the different kinds of errors have costs (for the user and the target)? Do the errors (and successes) fall on population subgroups equitably? How is the model used in deployment? How is the performance monitored once deployed? Are there plans to maintain the system and to bring it down if results are not as expected? What would the next generation tool look like? Will it be more data, better labelling, more training compute, more sophisticated testing, better deployment infrastructure, better user education…\nThat’s a lot of questions. I asked the students this week to make a flowchart of what they thought the steps were – as a kind of formative assessment for me of what ideas had landed and which hadn’t. One thing I noticed is that a lot of them went straight from “Identify problem” to “Train computer to solve problem” without any kind of “acquire labelled data” step – that’s definitely a step that I thought we’d spent enough time discussing, so I was thinking about finding a demo of how labelling works – something like the workflow of a Mechanical Turk-er, and then present some stats on the quality of the labelling so they can think about issues of reliability of the labels, the effect of the labels on the training process, and how well the data set covers the relevant universe of things. I couldn’t find anything like that.\nSo I’ve been trying to make it. Progress reports to follow, but it turns out that I’ve never done server side programming before, and it’s a fine rabbit hole."
+  },
+  {
+    "objectID": "posts/skiing_magee/skiing_magee.html",
+    "href": "posts/skiing_magee/skiing_magee.html",
+    "title": "The Skiing Magee",
+    "section": "",
+    "text": "Mr. Magee decides one day that he wants to go skiing, but doesn’t know how, so he packs up his dog and climbs to the top of a local hill and just starts skiing down. It’s going great – much better than he has a right to expect on his first try, when he sees a moose in his path ahead. The moose is completely unaware of Mr. Magee, it’s fixated on a tasty looking tree on the other side of a chasm in the snow, and wondering how to get across.\nMr. Magee meanwhile is shouting for the moose to move because he doesn’t know how to steer, when he suddenly leans back and slides on his butt, under the moose, catching the tips of the skis on a log. He then flips entirely upside down, landing with the back of the skis on the other side of the chasm, the front tips lodged under the log on the uphill side of the chasm, and he, poor Mr. Magee, is hanging upside down from the skis!\nThen the moose turns around.\nWondering where Mr. Magee had gone, the moose does see a bridge, built just for him, across the chasm, and begins to walk across on top of the skis.\nThe skis bend, but do not break, when the moose looks down to see Mr. Magee starting up at him in terror. So of course the moose jumps in fright, pushing Mr. Magee down some more, but landing safely on the downhill side where he can go eat that tasty tree.\nMr. Magee on the other hand, is sproinged up in the air, flips right side up, and lands safely on his skis on the uphill side of the chasm!!\nSo of course Mr. Magee goes home and puts his skis to a better use for a while.\nWith this story I’m seeing a physics lesson, centered around rotational motion, forces, and elastic stretches.\nSome possible questions:\n\nHow much does the snow compress under the tip and back of the skis when Mr. Magee flips over? How much more does it compress when the moose steps on him?\nCan we infer the elastic properties of the skis from how much they stretch when Mr. Magee is hanging upside down?\nWhat are all the interactions and forces while the moose is jumping off the skis? How might this cause Mr. Magee to get flipped right side up?\nIs moose going forward and Magee going backward an example of “equal and opposite”?\nHow strong must the log-fulcrum be to cause Magee to flip upside down? How fast must the rotational motion be?\n\nMy possible questions from this story are a lot more “physics teacher-y” than some of the other stories I’m thinking about, but they’re a lot of fun and might lead to some cool modelling opportunities.\nThe Skiing Magee is a part of a planned series of posts analyzing mathematical, computational, and scientific themes in children’s stories as part of possibly writing a book playing some fun games with these stories."
+  }
+]

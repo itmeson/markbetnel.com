@@ -1,0 +1,41 @@
+---
+title: The Skiing Magee
+author: "Mark Betnel"
+date: "2021-10-13"
+categories: [ct, sngn, physics, modelling]
+---
+
+
+**Learning to Ski with Mr. Magee** by Chris van Dusen is a fun story about a guy and his dog who don't know how to ski.
+
+Mr. Magee decides one day that he wants to go skiing, but doesn't know how, so he packs up his dog and climbs to the top of a local hill and just starts skiing down.  It's going great -- much better than he has a right to expect on his first try, when he sees a moose in his path ahead.  The moose is completely unaware of Mr. Magee, it's fixated on a tasty looking tree on the other side of a **chasm** in the snow, and wondering how to get across.
+
+Mr. Magee meanwhile is shouting for the moose to move because he doesn't know how to steer, when he suddenly leans back and slides *on his butt*, **under** the moose, catching the tips of the skis on a log.  He then flips **entirely upside down**, landing with the back of the skis on the other side of the chasm, the front tips lodged under the log on the uphill side of the chasm, and he, poor Mr. Magee, is hanging upside down from the skis!
+
+Then the moose turns around.
+
+Wondering where Mr. Magee had gone, the moose does see a *bridge*, built just for him, across the chasm, and begins to walk across on top of the skis.
+
+The skis bend, but do not break, when the moose looks down to see Mr. Magee starting up at him in terror.  So of course the moose **jumps** in fright, pushing Mr. Magee down some more, but landing safely on the downhill side where he can go eat that tasty tree. 
+
+Mr. Magee on the other hand, is **sproinged** up in the air, flips right side up, and lands safely on his skis on the *uphill* side of the chasm!!
+
+So of course Mr. Magee goes home and puts his skis to a better use for a while.
+
+With this story I'm seeing a physics lesson, centered around rotational motion, forces, and elastic stretches.
+
+Some possible questions:
+
+* How much does the snow compress under the tip and back of the skis when Mr. Magee flips over?  How much more does it compress when the moose steps on him?
+* Can we infer the elastic properties of the skis from how much they stretch when Mr. Magee is hanging upside down?
+* What are all the interactions and forces while the moose is jumping off the skis?  How might this cause Mr. Magee to get flipped right side up?
+* Is moose going forward and Magee going backward an example of "equal and opposite"?
+* How strong must the log-fulcrum be to cause Magee to flip upside down? How fast must the rotational motion be?
+
+
+My possible questions from this story are a lot more "physics teacher-y" than some of the other stories I'm thinking about, but they're a lot of fun and might lead to some cool modelling opportunities.
+
+
+
+**The Skiing Magee** is a part of a planned series of posts analyzing mathematical, computational, and scientific themes in children's stories as part of possibly writing a book playing some fun games with these stories.  
+

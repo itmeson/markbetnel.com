@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: ../_site/blog
+
+website:
+  title: "null result"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/itmeson
+      - icon: twitter
+        href: https://twitter.com/markbetnel
+format:
+  html:
+    theme: journal
+    css: styles.css
+
+
+

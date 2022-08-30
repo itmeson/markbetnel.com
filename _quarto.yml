@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "mark betnel"
+  siteurl: "https://markbetnel.com/"
+  page-footer:
+    left: "Constructed using [Quarto](https://quarto.org), by Mark Betnel. Copyright 2022, all rights reserved unless otherwise noted."
+    right:
+      - icon: github
+        href: https://github.com/itmeson/
+      - icon: twitter
+        href: https://twitter.com/markbetnel
+  navbar:
+    search: true
+    right:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: blog/index.qmd
+        text: Blog
+      - icon: twitter
+      
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-link: true
+    smooth-scroll: true
+
+
+

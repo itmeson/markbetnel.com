@@ -1,0 +1,30 @@
+---
+title: "Mark Betnel"
+image: mark_headshot.jpg
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/markbetnel
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/markbetnel
+    - icon: github
+      text: Github
+      href: https://github.com/itmeson
+
+---
+
+#### Current
+ * High school physics, computer science, and math teacher
+ * Community college physics instructor
+ * Parent x2
+ * Soccer coach
+ * Quaker
+
+#### Education
+ * BS Physics (Harvey Mudd '98)
+ * MA Philosophy (San Francisco State '01) 
+ * MS Physics (University of Rhode Island '05)
+ * PhD Physics (Boston University '11)
