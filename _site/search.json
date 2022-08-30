@@ -53,7 +53,7 @@
     "href": "blog/index.html",
     "title": "null result",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 29, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 26, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nct\n\n\nlabelling\n\n\nstudents\n\n\neducation\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2022\n\n\nMark Betnel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nct\n\n\nsngn\n\n\nphysics\n\n\nmodelling\n\n\n\n\n\n\n\n\n\n\n\nOct 13, 2021\n\n\nMark Betnel\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nct\n\n\nlabelling\n\n\nstudents\n\n\neducation\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2022\n\n\nMark Betnel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nct\n\n\nsngn\n\n\nphysics\n\n\nmodelling\n\n\n\n\n\n\n\n\n\n\n\nOct 13, 2021\n\n\nMark Betnel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncircle\n\n\ngeometry\n\n\ntrigonometry\n\n\nalgebra\n\n\nproblems\n\n\nconstruction\n\n\nsafety\n\n\nletting go\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2015\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/labelling/index.html",
@@ -82,5 +82,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "blog/posts/four_circles/index.html",
+    "href": "blog/posts/four_circles/index.html",
+    "title": "Four Circles",
+    "section": "",
+    "text": "Construct a circle that is mutually tangent to three other circles, each of which is tangent to each of the others. The circles have radii of 3, 2, and 1. What is the radius of the fourth circle? And how do you locate its center?\n.. raw:: html\n  ..\nOpen in a separate tab. <http://web.geogebra.org/app/?id=952253>_\nIt was an interesting experience working on the problem with other teachers in the room. It was intimidating.\nThe problem poser and a third teacher who had seen the problem before but didn’t remember the solution were looking over my shoulder while I was sketching and thinking.\nSo intimidating\nI found myself falling prey to all the mental traps I see my students fall into.\n“It’s taking too long. I must have missed something.”\n“Are they going to respect me if I can’t figure it out?”\n“This approach looks promising, but it doesn’t seem elegant enough to justify the problem-poser’s satisfaction.”\n“Maybe I should make a new drawing. This one isn’t very neat.”\nand the third teacher, who half-remembered having done the problem before, admitted that he was falling prey to the trap of trying to remember the solution, rather than thinking afresh about it (one of the more common traps my students fall into).\nSo I’m taking away from this a reminder of how important it is to make the space safe for a student to experiment, and how easy it is to screw it up by asking the wrong question at the wrong time in the wrong way. Or even just by hovering a little too soon.\nI’m reminded of Feynman’s anecdote about the high school students he had working for him at Los Alamos near the end of the Manhattan Project. They had come up with a clever way to speed up their calculations, but they were still working out the bugs when he walked in the room, and, embarrased and worried that he would screw them up, they shouted at him to get out.\nI think Feynman is a problematic figure in science, but we could all think about following this one example at least, if we really want our students to feel safe: without a word, he closed the door and walked away."
   }
 ]

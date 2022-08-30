@@ -9,10 +9,9 @@
   {
     "listing": "/blog/index.html",
     "items": [
-      "/blog/posts/post-with-code/index.html",
-      "/blog/posts/welcome/index.html",
       "/blog/posts/labelling/index.html",
-      "/blog/posts/skiing_magee/skiing_magee.html"
+      "/blog/posts/skiing_magee/skiing_magee.html",
+      "/blog/posts/four_circles/index.html"
     ]
   }
 ]
