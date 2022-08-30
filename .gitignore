@@ -4,3 +4,5 @@ courses/
 sngn
 cache/
 *checkpoints
+
+/.quarto/
