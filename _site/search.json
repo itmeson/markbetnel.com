@@ -53,7 +53,7 @@
     "href": "blog/index.html",
     "title": "null result",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nct\n\n\nlabelling\n\n\nstudents\n\n\neducation\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2022\n\n\nMark Betnel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nct\n\n\nsngn\n\n\nphysics\n\n\nmodelling\n\n\n\n\n\n\n\n\n\n\n\nOct 13, 2021\n\n\nMark Betnel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncircle\n\n\ngeometry\n\n\ntrigonometry\n\n\nalgebra\n\n\nproblems\n\n\nconstruction\n\n\nsafety\n\n\nletting go\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2015\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\n\n\nct\n\n\nunits\n\n\nphysics\n\n\njs\n\n\n\n\n\n\n\n\n\n\n\nSep 14, 2022\n\n\nMark Betnel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nct\n\n\nlabelling\n\n\nstudents\n\n\neducation\n\n\n\n\n\n\n\n\n\n\n\nMay 7, 2022\n\n\nMark Betnel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nct\n\n\nsngn\n\n\nphysics\n\n\nmodelling\n\n\n\n\n\n\n\n\n\n\n\nOct 13, 2021\n\n\nMark Betnel\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncircle\n\n\ngeometry\n\n\ntrigonometry\n\n\nalgebra\n\n\nproblems\n\n\nconstruction\n\n\nsafety\n\n\nletting go\n\n\n\n\n\n\n\n\n\n\n\nApr 1, 2015\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/labelling/index.html",
@@ -89,5 +89,19 @@
     "title": "Four Circles",
     "section": "",
     "text": "Construct a circle that is mutually tangent to three other circles, each of which is tangent to each of the others. The circles have radii of 3, 2, and 1. What is the radius of the fourth circle? And how do you locate its center?\n.. raw:: html\n  ..\nOpen in a separate tab. <http://web.geogebra.org/app/?id=952253>_\nIt was an interesting experience working on the problem with other teachers in the room. It was intimidating.\nThe problem poser and a third teacher who had seen the problem before but didn’t remember the solution were looking over my shoulder while I was sketching and thinking.\nSo intimidating\nI found myself falling prey to all the mental traps I see my students fall into.\n“It’s taking too long. I must have missed something.”\n“Are they going to respect me if I can’t figure it out?”\n“This approach looks promising, but it doesn’t seem elegant enough to justify the problem-poser’s satisfaction.”\n“Maybe I should make a new drawing. This one isn’t very neat.”\nand the third teacher, who half-remembered having done the problem before, admitted that he was falling prey to the trap of trying to remember the solution, rather than thinking afresh about it (one of the more common traps my students fall into).\nSo I’m taking away from this a reminder of how important it is to make the space safe for a student to experiment, and how easy it is to screw it up by asking the wrong question at the wrong time in the wrong way. Or even just by hovering a little too soon.\nI’m reminded of Feynman’s anecdote about the high school students he had working for him at Los Alamos near the end of the Manhattan Project. They had come up with a clever way to speed up their calculations, but they were still working out the bugs when he walked in the room, and, embarrased and worried that he would screw them up, they shouted at him to get out.\nI think Feynman is a problematic figure in science, but we could all think about following this one example at least, if we really want our students to feel safe: without a word, he closed the door and walked away."
+  },
+  {
+    "objectID": "blog/about.html",
+    "href": "blog/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "blog/posts/unit-tutor/unit_tutor.html",
+    "href": "blog/posts/unit-tutor/unit_tutor.html",
+    "title": "Unit Tutor",
+    "section": "",
+    "text": "My hope was that the ease of maniuplating quantities and seeing the results of a calculation would help students better understand things like why multipying “30 meters per second” by “1 minute per 60 seconds” won’t tell you how many meters in one minute.\nLast spring I finally started to feel like I might be able to create that site, and I spent a significant amount of my release time in May working on a prototype, which is now live at https://itmeson.github.io/unit-tutor/.\nThere are still a lot of issues with the prototype that a “real” engineer might be able to solve quickly, some of which are listed on the github readme for the project, but I feel like I’m ready for a few people to try it out to give me some feedback on more issues and what’s worth putting the effort into and what’s “okay” as-is.\nIssues can be reported using github issue tracking, or in this google form which is also linked on the project page.\nWhat I hope to do in the near-term is build a couple of tutorial-style pages that walk users/students through example unit-conversion problems, provide an easy way to make worksheet-style pages that have pre-populated conversion factors and word problems that students can parse to turn into calculations, and an open-calculator mode where the conversion factor tab brings up a drop-down menu of known conversion factors, the quantities tab allows free entry of measured values, and the calculate results can be re-used in more involved multi-step calculations."
   }
 ]
