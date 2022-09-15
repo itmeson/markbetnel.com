@@ -11,6 +11,10 @@ My hope was that the ease of maniuplating quantities and seeing the results of a
 
 Last spring I finally started to feel like I might be able to create that site, and I spent a significant amount of my release time in May working on a prototype, which is now live at [https://itmeson.github.io/unit-tutor/](https://itmeson.github.io/unit-tutor/).
 
+Here I've made an example (not live) of a calculation where I was estimating how much water is lost in a month from a faucet dripping once per second.
+
+![An example of a computation/unit conversion](unit-demo.png "Unit conversion example")
+
 There are still a lot of issues with the prototype that a "real" engineer might be able to solve quickly, some of which are listed on the github readme for the project, but I feel like I'm ready for a few people to try it out to give me some feedback on more issues and what's worth putting the effort into and what's "okay" as-is.
 
 Issues can be reported using [github issue tracking](https://github.com/itmeson/unit-tutor/issues), or in [this google form](https://docs.google.com/forms/d/e/1FAIpQLSd1qGNh4DS77snyUjXoZ0D9WFxI0gfxRdzaa5-UpSd9pgEbXQ/viewform) which is also linked on the project page.
