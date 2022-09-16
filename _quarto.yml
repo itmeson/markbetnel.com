@@ -29,6 +29,8 @@ format:
     toc: true
     code-link: true
     smooth-scroll: true
+    include-in-header: 
+      - counter.html
 
 
 
