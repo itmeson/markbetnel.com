@@ -1,0 +1,25 @@
+---
+title: GPT Is Not All You Need
+author: "Mark Betnel"
+date: "2023-04-03"
+categories: [gpt, ai, expertise, ethics, policy]
+---
+
+One of the pillars of my life mission is that humans don't have to earn the right to think critically.  The sneering "You're not an expert, so you'll just have to let your betters tell you what to think" crowd has been a consistent frustration for decades.  To me, one of the goals of education is freedom from the "tyranny of experts", not to replace expertise, but to learn enough to be able to ask good questions to inform critical judgements.  
+
+There's obviously a tension.  Anti-maskers and anti-vaxxers express a similar-sounding view, "I'm just doing my own research, and I don't think these vaccines are safe," they say, arguing that they should get to decide for themselves.  When decisions truly only affect the individual, I'm content to leave it as an individual decision.  But public health affects everyone, so there has to be room for experts to inform the public about the technical issues, and room for political processes to decide how to use that information in making recommendations and rules.  Technical expertise informs technical questions, and the answer to those technical questions inform critical reflection and judgement.  Importantly, it's not just the opinions of vaccine developers which count for the technical questions -- there's an FDA whose purpose is to insure that the vaccines are safe AND effective.   
+
+[![(Tweet from Yann LeCun.)](yann_lecun_tweet.png "Tweet from Yann LeCun")](https://twitter.com/ylecun/status/1642206111464927239)
+
+
+Yann LeCun thinks that builders of AI are the only ones whose opinion really counts.  They aren't afraid of AGI, so the rest of us shouldn't be either.
+
+First, that's not true -- there are a number of people who work at the cutting edge of AI research and development who are worried about the potential harms of AGI (and at least as importantly, who worry about the actual current harms from irresponsible deployment of AI tools).  But I think that's a red herring anyway, as the relevant expertise here isn't technical.  
+
+The only technical insight one needs is that AI systems are developed in a way to maximize their "score" on measurements of how well their outputs reflect the programmers' goals.  If the score measurement perfectly reflects the engineered goals (and those goals are good ones), then there isn't a problem.  But the score measurement **never** perfectly reflects the engineered goals. I've tried to measure student learning in many different ways in my career, but I've never managed to find a way to do that that prevented students from "gaming" the system.  There always seems to be a way to get a good score without actually learning, and some students always seem to find it.
+
+Machine learning systems are also quite creative at gaming their scoring systems, allowing them to get good scores without actually doing the thing we wanted them to do.  Some examples of this are just funny. Some are pretty disturbing.  The point, for those of us who are worried but aren't cutting edge AI researchers like Yan LeCun, is that engineered products are supposed to satisfy relevant safety guidelines.  Pharmaceutical companies have to demonstrate that their products are safe and effective before they can be used.  But there isn't an FDA for algorithms (yet), and if the only opinions that matter are those of the developers, we're stuck trusting folks who are motivated more by the potential profit than by the relevant ethical questions, and even then those experts don't really know how safe and effective their products are.
+
+So absent any independent assurances, my questions and expertise are just as relevant as LeCun's.  I think that attacking the "information space" with a misinformation bomb is a problem.  Deploying automated decision making tools without taking legal responsibility for the outcomes is a problem.  Moving fast and breaking the education system with a tool that subverts our entire assessment framework is a problem.  There's of course many more -- all of which are going to require some solutions or mitigations or just deciding not to do that. 
+
+It would be great if the leaders in developing these tools also seemed to be interested in collaborating with the rest of us to figure out which tools might be useful, which need safeguards, and which shouldn't be used at all.  In figuring out what we ought to do, GPT is definitely not all you need.

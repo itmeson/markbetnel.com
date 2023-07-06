@@ -1,0 +1,28 @@
+---
+title: Sports Metaphors
+author: "Mark Betnel"
+date: "2023-03-30"
+categories: [ai, llm, gpt, future, sports, training]
+---
+
+How many kids play youth sports every year?  All of them? To a first approximation.
+
+And how many of those kids ever get *paid* to play that sport?  None of them?  To a first approximation.
+
+So why do we put kids into youth sports?  Sure there's a few people who are convinced that their kid is going to be the one, and a few kids who are convinced by the dream.  And a few of them actually do make it.  But the reason we do it must be about something other than the future financial payoff.  
+
+The reasons we'll say tend to be about fitness, teamwork, leadership, tactical thinking, and culture.  Of course, if it was just about fitness, we'd probably be doing a lot more gymnastics and weights -- individual sports.  But team sports are more fun.  And it's easier to share them with spectators.
+
+And I think all of those are great reasons to get kids into sports, even if none of them become professionals.
+
+So how many kids learn math every year?  All of them? To a first approximation.
+
+And how many of those kids ever get *paid* to do math?  Well, it's not none of them this time.  In fact, I think most people do use some mathematical thinking in their work.  But the number who get paid to really *do* math?  Not very many.  So why do we put kids into math?
+
+How many kids learn intellectual skills every year?  All of them?
+
+And how many will ever "turn pro" as an intellectual? Arguably, all of them, if you have a broad understanding of what intellectual skills are and how they are used.
+
+What about in the near future, when ubiquitous AGI does most of the intellectual work that needs doing?  Will there be a time when a small group of elite professional intellectuals are the only ones who've survived the gauntlet of the minor leagues of high school, college, and graduate school to get to turn pro?  Will they have an NFL career (not-for-long) while they are still able to keep up with the best of the best, before they inevitably slow down and have to settle into a long retirement telling stories of their glory days developing new theorems?
+
+Will it still be worth teaching those intellectual skills to most or all students, even though only a tiny fraction will ever *need* to use them?  

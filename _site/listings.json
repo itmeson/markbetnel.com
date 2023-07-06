@@ -9,6 +9,9 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/posts/expertise/expertise.html",
+      "/blog/posts/cave/cave.html",
+      "/blog/posts/sports/sports.html",
       "/blog/posts/unit-tutor/unit_tutor.html",
       "/blog/posts/labelling/index.html",
       "/blog/posts/skiing_magee/skiing_magee.html",
