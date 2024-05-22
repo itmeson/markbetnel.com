@@ -9,8 +9,8 @@ website:
     right:
       - icon: github
         href: https://github.com/itmeson/
-      - icon: twitter
-        href: https://twitter.com/markbetnel
+      - icon: linkedin
+        href: https://linkedin.com/in/markbetnel
   navbar:
     search: true
     right:
@@ -19,7 +19,6 @@ website:
       - about.qmd
       - href: blog/index.qmd
         text: Blog
-      - icon: twitter
       
 
 format:

@@ -1,14 +1,9 @@
 [
   {
-    "listing": "/nullresult/index.html",
-    "items": [
-      "/nullresult/posts/post-with-code/index.html",
-      "/nullresult/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/posts/ai4ed/ai4ed.html",
+      "/blog/posts/crystals/crystals.html",
       "/blog/posts/expertise/expertise.html",
       "/blog/posts/cave/cave.html",
       "/blog/posts/sports/sports.html",

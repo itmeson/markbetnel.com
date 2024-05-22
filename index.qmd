@@ -4,9 +4,9 @@ image: mark_headshot.jpg
 about:
   template: solana
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/markbetnel
+    - icon: gear-wide-connected
+      text: Bluesky
+      href: https://bsky.app/profile/markbetnel.bsky.social
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/in/markbetnel

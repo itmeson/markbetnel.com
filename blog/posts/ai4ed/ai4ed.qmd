@@ -1,0 +1,20 @@
+---
+title: AI 4 Ed
+author: "Mark Betnel"
+date: "2024-05-22"
+categories: [ai, education]
+---
+
+There's a gold rush underway right now in educational technology.  Everyone is trying to cash in on generative AI to "democratize education", to offer the ultimate "personalized, infinitely patient tutors", and to "free educators to do the most important part of the job, interact with students".
+
+There are so many questions begged there that I really don't know where to start.
+
+I've been getting a lot from [Dan Meyer's takes on generative AI for math teaching](https://substack.com/home/post/p-144855940?r=1j8f5i&utm_campaign=post&utm_medium=web) and on [Jane Rosenzweig's thoughts about generative AI and writing](https://twitter.com/RosenzweigJane/status/1793246995953369374).  Rosenzweig points out that friction is actually what you need, "I don't assign summary and analysis because I need the output.  I assgin these steps because I want to help my students think through complex ideas and grapple with them."
+
+Along with all these ed-tech launches and promotion, there's also a lot of learning materials being put out there for teachers -- to help them understand AI and how to use it in their classes.  There's some good stuff in these.  They do walk teachers through prompt writing and refinement, they talk realistically about capabilities and limitations, and they dutifully point out issues with "hallucinations, bias, and privacy" (though they never quite say what they mean by those.)
+
+Students don't particularly care about privacy, and hallucinations are (possibly) a temporary issue.  Bias is probably here to stay, but it's not an issue that stops most people from using a tool, and it certainly doesn't stop students.  
+
+But these are not the most important issue with generative AI and education -- the most important question, that the ed-tech promoters and the professional development purveyors seem intent on avoiding, is what Joy Buolamwini calls the "apprentice gap" [Unmasking AI](https://www.penguinrandomhouse.com/books/670356/unmasking-ai-by-joy-buolamwini/) and what Rosenzweig is talking about when she points to the value of friction.  Education is about the development of personal skills and knowledge.  It's about empowerment and freedom.  And the motivation to achieve those usually comes through struggle.  The real question, the one that remains even if all the current issues with bias, hallucination, and privacy are "fixed", is how educators can continue to guide students toward empowerment and freedom when students are carrying a tool that removes all the moments of friction that would motivate them to build those skills and knowledge?  How do they move from dependence to apprenticeship to expertise when the tools will just make every product for them?
+
+The issues we need to grapple with are about whether there are any skills or knowledge that students really do need to have in their own heads, what those are, and how to build them both with and without these tools available.  Any ed-tech product and any teacher PD that doesn't wrestle with that issue is begging the most important question.

@@ -1,0 +1,29 @@
+---
+title: Crystals of Thought
+author: "Mark Betnel"
+date: "2023-08-11"
+categories: [gpt, thought, metaphor, ai, llm, future]
+---
+
+When salt is mixed into water, the atomic components of salt, sodium and chlorine, dissolve.  The ionic bond between the atoms is broken.  The individual ions are freed to migrate around in a sea of water molecules, buffeted randomly in a never ending maelstrom.  
+
+That’s how it feels to me when I am trying to connect ideas to illuminate an important point as a teacher, or to convince my readers in an essay – I can’t quite find the connection, the pieces I’m trying to connect are buffeted about randomly.  As I sit down to write, there are many different ways I might connect up those ideas, some of which might be helpful, and some of which might be true.  But I might connect them up in true ways that are not illuminating, or I could light on a misleading explanation that causes the very misconceptions I was trying to avoid.
+
+Writing is like a careful crystallization process.  Water is slowly removed.  Some of those sodium and chlorine ions find each other again, lining up to form solid bonds once more.  As the first ions line up, others happen to find their way into place in the same ordered structure, continuing a pattern of sodium to chlorine to sodium to chlorine, over and over again, building left and right, forward and backward, and up and down in a beautiful solid lattice.  Just so the words I write, if I am careful, guide the next words into the right place as the idea that was half formed in my head crystallizes into a clarity.  
+
+But if the process is too fast or the conditions not quite right, the sodium and chlorine atoms leave gaps in the pattern, or start growing their patterns from more than one starting location, so the final result has imperfections or pieces that grow together at strange angles that cannot continue the pattern.  The resulting salt crystals have their own beauty, but the writing produced lacks the clarity of purpose that I sought for, my readers aren’t convinced by my arguments, and my students are left confused.  
+
+To guard against this, I read my own words as I write.  The already produced text guides my thinking, achieving clarity in my head through iteration between the mental maelstrom, the malleable words as I edit, and the fixed words in the completed product.  I learn as much from this process as any of my future readers will.
+
+The written word is the crystallization of incomplete thoughts into a form that helps the writer develop their own ideas AND communicate them to others.
+
+Does Generative AI have a place in this process?
+
+My fear is that generative AI will produce complete crystals all at once, without the feedback between writer and written word that underlies traditional writing.  How easy will it be for the writer to convince themselves that, “yes, those words were the ones I meant to say”?  “That is the idea I had half-formed in my head, now expressed perfectly.”  If the generative AI does in fact produce and crystallize the right idea, then maybe this is a good thing.  But if the AI system steers the writer toward a different crystal, one that isn’t quite the same, will the writer ever discover what they really thought, for themself?  Whose thought will it be?
+
+Some will respond that it doesn’t matter.  If the writing produced by the AI system is better than my own, I might as well use it.  I think anyone who would say this must see a different instrumental value in writing than I do.  I think they see the product and the influence it will have on the reader as the point.  I see the process, and the influence it has on me, as the primary point, with the effect on future readers as a wonderful bonus that I have no right to expect.  
+
+But also, I fear the world in which the process relationship between the writer and the written product is broken and replaced by generative AI, as I see no reason at that point for a human to read the product either.  Wouldn’t they just use their own “reader AI” to summarize the result for them?  They certainly wouldn’t be insulting my craft to do so.
+
+It doesn’t seem such a big step, to me, to cut the humans out of this loop entirely, and then what have we gained?  What does it profit a human, to gain the world, without also understanding it?
+ 
