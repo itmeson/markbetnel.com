@@ -13,4 +13,4 @@ One use of large language models (LLMs) is to facilitate communication, by takin
 
 Are there instances where these extra layers will enable communication with greater fidelity?  Probably.  Will there be instances where the layers introduce more noise? Or steer my thoughts? Certainly.  And if I don't control the intermediary LLMs, how can I be sure that the steering isn't intended to manipulate me, the way every other algorithmic communication system has been dual purposed for manipulation?
 
-In the allegory the philosopher is supposed to fight to get free of the cave.
+In the allegory, the philosopher is supposed to fight to get free of the cave and then fight to free everyone else.  LLMs are more like adding a series of mirrors and lenses in between the shadow puppet casters and the trapped humans instead.   
