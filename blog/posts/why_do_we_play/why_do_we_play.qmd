@@ -1,0 +1,29 @@
+---
+title: Why do we play?
+author: "Mark Betnel"
+date: "2024-08-05"
+categories: []
+---
+
+Have you ever played the card game "War"?  It's kind of dumb.  The deck gets shuffled, each player gets an equal share of the cards, then the players each put their top card down, with the higher card taking the cards in the pile.  If the two cards are equal in value, then each player puts down one card face down and one face up, and the one with the higher card now takes them all.  The game keeps going until one player is out of cards (loser!).  
+
+It's dumb because there are no decisions in it at all.  You just keep putting down cards, comparing their value, and taking them if the rules dictate it.  In fact, if the players are careful about always putting their cards down in the same order (mine first, then yours or vice versa) and incorporating them back into the hand after taking them in the same order -- then the entire game is deterministic and could have been predicted from the start, because the initial shuffle determines all that will follow.
+
+It's dumb, but I _might_ have played quite a bit of this game anyway, in the back of Algebra II class in high school (only after all the work of the day was done, _of course_).  It was fun.  There were unexpected twists and turns, as one player would get down to just a couple of cards, seemingly about to lose, then suddenly they would take a bunch of cards in a row.
+
+It was fun.  That's why I still played it, even though in some sense the outcome had been determined before I picked the cards up.  
+
+When I learned about the problem of free will, I wasn't very impressed.  I was like, "What does it matter if the universe is determined ahead of time?  It's not like **I** know how it's going to come out."  To me, the problem didn't seem like much of a problem.  The illusion of free will is so strong that I still feel responsible for the results of my choices, and the unexpected twists and turns of life make it "fun" enough to keep playing the game.  I wrote a thing once, about how the card game illustrated that actually most people aren't really bothered by determinism, so determinism is totally consistent with having free will.  This stance makes me a "compatibilist", in case you're curious, in the sense that I think determinism is compatible with free will.
+
+But what I'm thinking about today is whether education is compatible with artificial intelligence.  In the previous post [AI 4 Ed](https://markbetnel.com/blog/posts/ai4ed/ai4ed.html) I argued that the fundamental question is, "whether there are any skills or knowledge that students really do need to have in their _own_ heads, what those are, and how to build them both with and without AI tools available."
+
+There's a set of related issues implied by that question, that depend on (1) just how good does the AI get at various tasks (and on what timeframe), and (2) on what level does the student in question need to or want to _compete_ using the skills we might teach them?  Disentangling those issues and their implications is the work of more than one blog post, so today I'm just going to say something about one extreme case:  Suppose AI tools eventually get better than me, better than any human, at intellectual work.  Does it matter?  Is the presence of strong artificial general intelligence compatible with human education?
+
+I think it is, in the sense that 
+
+In the same sense that determinism doesn't rule out free will, I'd argue that AI doesn't matter very much for education -- people will still be cur
+
+
+suppose strong AGI (artificial general intelligence that is at or near human level in most intellectual domains) happens in a relatively short time frame, say less than 10 years.  10 years means that the students we are working with right now in K-12 will not get whatever benefits accrue to AGI users as part of their education, but they will have to compete with AGI and with AGI users for essentially their entire careers.  
+
+
