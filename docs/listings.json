@@ -2,7 +2,9 @@
   {
     "listing": "/blog/index.html",
     "items": [
+      "/blog/posts/too_late/too_late.html",
       "/blog/posts/why_do_we_play/why_do_we_play.html",
+      "/blog/posts/science_coup/scientific_coup.html",
       "/blog/posts/ai4ed/ai4ed.html",
       "/blog/posts/crystals/crystals.html",
       "/blog/posts/expertise/expertise.html",

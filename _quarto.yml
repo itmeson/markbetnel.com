@@ -6,7 +6,7 @@ website:
   title: "mark betnel"
   site-url: "https://markbetnel.com/"
   page-footer:
-    left: "Constructed using [Quarto](https://quarto.org), by Mark Betnel. Copyright 2022, all rights reserved unless otherwise noted."
+    left: "Constructed using [Quarto](https://quarto.org), by Mark Betnel. Copyright 2021-2025, all rights reserved unless otherwise noted."
     right:
       - icon: github
         href: https://github.com/itmeson/

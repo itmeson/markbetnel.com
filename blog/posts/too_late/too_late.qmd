@@ -1,0 +1,39 @@
+---
+title: Too Late
+author: "Mark Betnel"
+date: "2025-02-28"
+categories: [education, agi, competition]
+---
+
+What does it mean to have to compete against the best in the world?
+
+Most of us have probably not had that experience.  My closest taste was as a physics student in undergrad and in grad school, when some of my fellow students were among the best in the world and I often felt far behind them -- but I wasn't really competing *with* them, I was more *near* them (and learning a lot about physics and myself in the process!).  I saw a high school student clear 17 feet in the pole vault during a dual meet my junior year in high school.  He was the eventual national champion that year in our age group and later a silver medalist at the world indoor championship --  he was so far beyond everyone else at the meet that we all just gathered to watch. Our own coach was applauding, just thrilled to get to see something that awesome.
+
+Professional athletes and chess grandmasters are the clearest example where the participants know full well that their success requires being the best in the world and beating others who are also the best in the world.  For those of us below that level, it can still be fun to watch, and still fun to play at whatever our own level is, as long as we can find competition that is reasonably even.  We tend to improve most when we compete against those who are currently just a little better than us, in the Goldilocks zone of proximal development -- that's where growth is the highest and most fun / least frustrating.
+
+In everyday life, you can get a job without being literally the best in the world, and you can have fun and be fulfilled without being literally the best.  This is in part because we are not directly competing with whoever the best is at every moment.  I teach high school students, and my work isn't compared to the "best" teacher in the world at all times, I just have to be good enough in the context I'm working in.  Good enough to help this group move farther than they think they can.  I can do my part, without worrying that the best is suddenly going to show up and take my lunch.
+
+But that's ending. Soon, if you believe the hype -- within the year.  I don't know if I believe it, but let's go with it for the moment.  What would it mean, as a humble teacher, to suddenly have to compete with the best in the world in order to keep my job?  It would be like suddenly being told, "You can't coach your kid's soccer team anymore, because Pep Guardiola moved into town and he wants to do it."  "Einstein has applied for your job as a physics teacher -- if you can beat him in a head-to-head physics teach-off, you can keep your job."
+
+Except it's even worse than that.
+
+AGI wants all the jobs, and supposedly it can/will do most of them, better than almost everybody.
+
+In a [recent blog post](https://hollisrobbinsanecdotal.substack.com/p/its-later-than-you-think), [Hollis Robbins](https://en.wikipedia.org/wiki/Hollis_Robbins) makes the (very) strong claim that "the only defensible reason for universities to remain in operation is to offer students an opportunity to learn from faculty whose expertise surpasses current AI... students should pay precisely for the last mile of human knowledge that surpasses AGI's capabilities."  Her argument is that the "knowledge transfer" function of general education classes is outdated, that knowledge transfer can be achieved more efficiently and effectively with AGI, and that the only functions not taken over by AGI should be those where the human offers something that AGI cannot.  She compares the human elements of education to "a four-year social networking summer camp" that some parents "may still value".
+
+Her argument is about universities, but I honestly don't see why she stops there.  If university educators have to compete with the (putative) best in the world to keep their job, because the knowledge transfer function of general education can be done better without (some of) them, then why shouldn't high school teachers have to compete on those grounds too?  Why shouldn't everybody?
+
+Where does it stop?  Once you cede the ground that general education is about knowledge transfer, and that AGI can do it better, than I honestly don't see the point of doing the knowledge transfer at all.
+
+But then, why was I at that track meet at all?  I was never going to be the best in the world, perhaps I should have packed up my spikes and gone home, and left the track to the only guy there who mattered.  Maybe I should have quit physics, and left the field to my good friend who's now a string theorist and amazing college professor? Or decided not to volunteer to coach my kid's soccer teams?
+
+Yeah yeah, this is a slippery slope argument, but honestly, what is the d*mn point if we're going to cede the whole game right at the beginning by accepting that education is "knowledge transfer" and the only way to do it is with the world's best?
+
+I'm good enough in my context, and so are you.
+
+
+
+
+
+
+
